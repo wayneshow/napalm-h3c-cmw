@@ -1,0 +1,3 @@
+include requirements.txt
+include napalm_huawei_vrp/templates/*.j2
+include napalm_huawei_vrp/utils/textfsm_templates/*.tpl
