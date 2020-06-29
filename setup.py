@@ -28,7 +28,7 @@ setup(
         'Operating System :: POSIX :: Linux',
         'Operating System :: MacOS',
     ],
-    url="https://github.com/napalm-automation-community/napalm-huawei-vrp",
+    url="https://github.com/wayneshow/napalm-h3c-cmw.git",
     include_package_data=True,
     install_requires=reqs,
 )
